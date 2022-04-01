@@ -19,20 +19,14 @@
 }
 
 .sky {
-   width: 1300px;
-   height: 515px;
    fill: #93d6e1;
 }
 
 .ocean {
-   width: 1300px;
-   height: 312px;
    fill: #273c97;
 }
 
 .beach {
-   width: 1300px;
-   height: 312px;
    fill: #d7d83d;
 }
 
