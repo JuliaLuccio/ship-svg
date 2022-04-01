@@ -1,0 +1,61 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+.container {
+   max-width: 1400px;
+   padding: 0 15px;
+   margin: 0 auto;
+}
+
+.title {
+   text-align: center;
+}
+
+.ship-svg {
+   width: 1300px;
+   height: 1005px;
+}
+
+.sky {
+   width: 1300px;
+   height: 515px;
+   fill: #93d6e1;
+}
+
+.ocean {
+   width: 1300px;
+   height: 312px;
+   fill: #273c97;
+}
+
+.beach {
+   width: 1300px;
+   height: 312px;
+   fill: #d7d83d;
+}
+
+.target-legs {
+   stroke: #4f2c14;
+   stroke-width: 20;
+}
+
+.target-red {
+   fill: #ed4426;
+}
+
+.target-white,
+.flag,
+.cloud {
+   fill: #ffffff;
+}
+
+.flagpole {
+   stroke: #a03533;
+   stroke-width: 13;
+}
+
+.ship {
+   fill: #59130b;
+}
